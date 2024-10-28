@@ -35,21 +35,54 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 10px;"/>
 </a>
 
-<h3 align="left">Languages:</h3>
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;<a href="https://www.python.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
-</div>
+
+<h3 align="left">Languages:</h3>
+<a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin: 10px;"/>
+</a>
+<a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin: 10px;"/>
+</a>
+<a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 10px;"/>
+</a>
+<a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin: 10px;"/>
+</a>
+
+
 
 <h3 align="left">Framework & Tools:</h3>
+<a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin: 10px;"/>
+</a>
+<a href="https://github.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="40" height="40" style="margin: 10px;"/>
+</a>
+<a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" style="margin: 10px;"/>
+</a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40" style="margin: 10px;"/>
+</a>
+<a href="https://www.qt.io/product/qt-designer" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/qt.svg" alt="Qt" width="40" height="40" style="margin: 10px;"/>
+</a>
 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp;<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> &nbsp;<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="40" height="40"/> </a> &nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</div>
+
+
+
 
 <h3 align="left">Backend & Database:</h3>
+<a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin: 10px;"/>
+</a>
+<a href="https://www.sqlite.org/index.html" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" style="margin: 10px;"/>
+</a>
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;
 
-</div>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imhardikdesai&show_icons=true&theme=dracula" alt="imhardikdesai" /></p>
