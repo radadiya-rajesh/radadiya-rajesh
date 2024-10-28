@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <div>
 
-[![Website Badge](https://img.shields.io/badge/Hardik_Desai-white?style=flat&logo=LinkedIn&logoColor=blue)](https://linkedin.com/in/desai-hardik-6b239b213) [![Website Badge](https://img.shields.io/badge/imhardikdesai-white?style=flat&logo=Instagram&logoColor=red)](https://instagram.com/imhardikdesai) [![Website Badge](https://img.shields.io/badge/imhardikdesai-white?style=flat&logo=Snapchat&logoColor=yellow)](https://snapchat.com/add/imhardikdesai) [![Website Badge](https://img.shields.io/badge/imhardikdesai-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/imhardikdesai)
+[![Website Badge](https://img.shields.io/badge/Radadiya_rajesh-white?style=flat&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/rajeshradadiya/) [![Website Badge](https://img.shields.io/badge/imhardikdesai-white?style=flat&logo=Instagram&logoColor=red)](https://instagram.com/imhardikdesai) [![Website Badge](https://img.shields.io/badge/imhardikdesai-white?style=flat&logo=Snapchat&logoColor=yellow)](https://snapchat.com/add/imhardikdesai) [![Website Badge](https://img.shields.io/badge/imhardikdesai-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/imhardikdesai)
 
 </div>
 
