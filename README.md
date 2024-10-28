@@ -1,32 +1,14 @@
-# radadiya-rajesh
-
-[![An image of @imhardikdesai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imhardikdesai)](https://holopin.io/@imhardikdesai)
-<h1 align="center">Hi 👋, I'm Hardik Desai</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Radadiya Rajesh</h1>
+<h3 align="center">A passionate Python developer from India</h3>
 
 
-
-![red](https://komarev.com/ghpvc/?username=imhardikdesai&color=red) [![Website Badge](https://img.shields.io/badge/Website-Hardik-red?style=flat&logo=Google-chrome&logoColor=white)]([https://imhardikdesai.netlify.app/](https://hardik-portfolio.vercel.app/))
-
-<!-- Trophy Code  -->
-<!-- <p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=imhardikdesai" alt="imhardikdesai" />
-</a>
-</p> -->
-
-- 🔭 I’m currently working on **CraftUI.studio**
+- 🔭 I’m currently working on **My Awesome Project**
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Python and Django**
 
-- 📫 How to reach me **hardikdesaitech@gmail.com**
-
-
-### My Top Projects:
-
-- <a href="https://hardik-portfolio.vercel.app/projects" target="_blank" rel="noreferrer">Here</a>
+- 📫 How to reach me **radadiyarajesh64@gmail.com**
 
 
 
