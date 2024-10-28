@@ -65,6 +65,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imhardikdesai&theme=radical" alt="imhardikdesai" /></p>
 
-[![Hardik's github activity graph](https://activity-graph.herokuapp.com/graph?username=imhardikdesai&custom_title=Hardik%20Desai's%20Activity%20graph&hide_border=true&theme=merko)](https://github.com/imhardikdesai/imhardikdesai)
-
 
