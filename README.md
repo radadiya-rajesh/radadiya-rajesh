@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <div>
 
-[![Website Badge](https://img.shields.io/badge/Radadiya_rajesh-white?style=flat&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/rajeshradadiya/) [![Website Badge](https://img.shields.io/badge/Radadiya_rajesh-white?style=flat&logo=Instagram&logoColor=red)](https://www.instagram.com/rajesh_9_1_/) [![Website Badge](https://img.shields.io/badge/Radadiya_rajesh-white?style=flat&logo=Twitter&logoColor=blue)](https://x.com/Rajesh_9_1)
+[![Website Badge](https://img.shields.io/badge/Radadiya_rajesh-white?style=flat&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/rajeshradadiya/) [![Website Badge](https://img.shields.io/badge/Radadiya_rajesh-white?style=flat&logo=Instagram&logoColor=red)](https://www.instagram.com/rajesh_9_1_/) [![Website Badge](https://img.shields.io/badge/Radadiya_rajesh-white?style=flat&logo=x&logoColor=blue)](https://x.com/Rajesh_9_1)
 
 </div>
 
